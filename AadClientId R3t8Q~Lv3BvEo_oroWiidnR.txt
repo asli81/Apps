@@ -1,0 +1,5 @@
+"AadClientId": "R3t8Q~Lv3BvEo_oroWiidnRn17ZhzZNNNmJUCaea",
+  "AadSecret": "fdd5340b-1dbf-4fec-843e-7603eae8d8df",
+  "AadTenantDomain": "ggdev365.onmicrosoft.com",
+  "AadTenantId": "a3557fc7-f66a-4660-b50c-75864b7634c6",
+
